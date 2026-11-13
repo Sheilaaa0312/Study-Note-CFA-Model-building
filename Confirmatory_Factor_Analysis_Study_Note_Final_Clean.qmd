@@ -5,9 +5,9 @@ date: today
 format:
   html:
     toc: true
-    toc-depth: 3
     number-sections: true
     embed-resources: true
+output-file: index.html
 execute:
   echo: true
   warning: false
