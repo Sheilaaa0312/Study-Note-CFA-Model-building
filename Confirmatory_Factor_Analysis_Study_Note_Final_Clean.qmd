@@ -91,7 +91,7 @@ A model's degrees of freedom are calculated as:
 $$df = \text{known values} - \text{free parameters}$$
 
 | Identification | Degrees of freedom | Meaning |
-|----|---:|----|
+|------------------------|-----------------------:|------------------------|
 | Under-identified | Negative (in simple parameter counting) | There is not enough independent information to estimate the proposed parameters. |
 | Just-identified | 0 | The model uses all available information and cannot be meaningfully tested for global fit. |
 | Over-identified | Positive | The model has restrictions that can be tested against the data. |
@@ -293,5 +293,5 @@ The three-item model has zero degrees of freedom, so its perfect fit is not a re
 
 # Appendix
 
-- GitHub Repository
-- GitHub Pages Website
+- [GitHub Repository](https://github.com/Sheilaaa0312/Study-Note-CFA-Model-building)
+- [GitHub Pages Website](https://sheilaaa0312.github.io/Study-Note-CFA-Model-building/)
